@@ -1,0 +1,15 @@
+.main{
+    background-color: rgb(65, 64, 64);
+    width: 80%;
+    margin: 10vh auto;
+    border-radius:10px ;
+    min-height: 60vh;
+
+}
+.main{
+    padding: 10px;
+}
+.main span{
+    display: block;
+    margin-bottom:10vh ;
+}
